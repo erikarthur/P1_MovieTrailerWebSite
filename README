@@ -1,9 +1,9 @@
-P1: Movie Trailer Website
-README
-10/26/2015
+#P1: Movie Trailer Website
+##README
+###10/26/2015
 
 
-Getting Started
+##etting Started
 ------------------------
 To run execute 'python entertainment_center.py' from the command line.  This command creates the fresh_tomatoes.html file and loads it in the default browser.
 
