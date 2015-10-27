@@ -16,7 +16,6 @@ main_page_head = '''
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="fresh_tomatoes.css">
-   
     <script type="text/javascript" charset="utf-8">
         // Pause the video when the modal is closed
         $(document).on('click', '.hanging-close, .modal-backdrop, .modal', function (event) {
@@ -92,7 +91,7 @@ movie_tile_content = '''
             <div class="text-left storyline">{movie_storyline}</div>
             <div class="text-left">
                 <div>
-                    <span class="bold">Rating: </span> 
+                    <span class="bold">Rating: </span>
                     <span class="normal">{movie_rating}</span>
                 </div>
                 <div>
